@@ -1,4 +1,4 @@
 # hello-word
-justo un altra repository
+justo una nuova repository
 
-ecco questa e la mia prima volta su github e spero di diventare molto fico, voglio entrare in culo a sto cazzo di sistema e chi t ha muorto
+ecco questa la mia prima volta su github e spero di farne qualcosa di utile
