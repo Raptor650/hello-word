@@ -1,2 +1,4 @@
 # hello-word
-justo un altra repository
+justo una nuova repository
+
+ecco questa la mia prima volta su github e spero di farne qualcosa di utile
